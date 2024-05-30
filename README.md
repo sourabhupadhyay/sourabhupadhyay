@@ -1,23 +1,14 @@
-<!-- Banner -->
-<img src="https://raw.githubusercontent.com/sourabhupadhyay/sourabhupadhyay/master/assets/banner.png" alt="banner" width="100%">
-
 <h1 align="center">Hi 👋, I'm Sourabh Upadhyay</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sourabhupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/sourabhupadhyay?label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sourabhupadhyay?label=Stars" alt="Stars" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhupadhyay" /> </p>
 
 - 🌱 I’m currently learning **ReactJS**
 - 💬 Ask me about **Web designing, operating system**
 - 📫 How to reach me **upadhyaysourabh12@gmail.com**
 - ⚡ Fun fact **You might be drinking water that is older than the solar system.**
-
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,8 +25,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -95,21 +84,8 @@
   </a>
 </p>
 
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhupadhyay&show_icons=true&locale=en&layout=compact" alt="sourabhupadhyay" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhupadhyay&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhupadhyay&show_icons=true&locale=en" alt="sourabhupadhyay" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhupadhyay&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhupadhyay&" alt="GitHub Streak" />
-</p>
-
-<br/>
-
-<!-- Add a profile banner image -->
-<img src="https://raw.githubusercontent.com/sourabhupadhyay/sourabhupadhyay/master/assets/footer.png" alt="banner" width="100%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhupadhyay&" alt="sourabhupadhyay" /></p>
