@@ -9,7 +9,7 @@
 </p>
 
 - 🌱 I’m currently learning **ReactJS**
-- 💬 Ask me about **Web designing, operating system**
+- 💬 Ask me about **Web development, Mern Stack**
 - 📫 How to reach me **upadhyaysourabh12@gmail.com**
 - ⚡ Fun fact **You might be drinking water that is older than the solar system.**
 
