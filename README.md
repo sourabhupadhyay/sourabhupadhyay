@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/sourabhupadhyay?label=Followers&style=social" alt="Followers" />
 </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **LLM ENGINEERING,RAG,Qlora,agents**
 - 💬 Ask me about **Web development, Mern Stack**
 - 📫 How to reach me **upadhyaysourabh12@gmail.com**
 - ⚡ Fun fact **You might be drinking water that is older than the solar system.**
